@@ -1,3 +1,3 @@
 # my first SASS project
 
-here is the **[demo]([https://eff.org](https://whosfatima.github.io/SimplePage/))**.
+here is the **[demo](https://whosfatima.github.io/SimplePage/)**.
